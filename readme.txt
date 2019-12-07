@@ -30,3 +30,10 @@ Once you install node.js and Vue.js onto node.js you can use the VSwitch.
 
 Note: You need to know JavaScript and Linux to understand how to work with node.js and Vue.js.
 
+Then... 
+
+Replace the App.vue with this App.vue
+
+Then...
+
+Replace the default components in the "components" folder with these components in this GitHub repository. Then, you can see the app work right in front of you!
