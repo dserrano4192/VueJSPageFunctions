@@ -1,16 +1,3 @@
-You will need node.js available here: https://nodejs.org/en/
-
-And...
-
-You will also need this: https://vuejs.org/
-
-To complete this...
-
-Once you install node.js and Vue.js onto node.js you can use the VSwitch.
-
-Note: You need to know JavaScript and Linux to understand how to work with node.js and Vue.js.
-
-
 Intro: Vue.js VSwitch
 
 A tutorial on a simple and easy way to transition to other pages using Vue functions instead of Vue Router.
@@ -29,3 +16,17 @@ Quick, Easy and Simple, No NPM Installs required, Works Every Time
 How It Works
 
 Using Vue.js we can specify a Vue.js Click Function that enables a callback function on click. The callback can be anything we want bue we will use a function that specifies whether or not to show an object. This is done by using a 'v-if' function that references a data object. That data object is then turned on or off by the user clicking on the link because that click function references a function that alters the data object to show or hide a component from the Vue.js App.
+
+
+You will need node.js available here: https://nodejs.org/en/
+
+And...
+
+You will also need this: https://vuejs.org/
+
+To complete this...
+
+Once you install node.js and Vue.js onto node.js you can use the VSwitch.
+
+Note: You need to know JavaScript and Linux to understand how to work with node.js and Vue.js.
+
