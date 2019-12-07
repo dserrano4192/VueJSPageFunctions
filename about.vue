@@ -11,7 +11,7 @@ export default {
 }
 </script>
 
-<style lang="less" scoped>
+<style lang="css" scoped>
 p{
   background: rgb(32,32,32);
   padding: 20px;
